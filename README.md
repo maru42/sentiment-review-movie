@@ -2,7 +2,6 @@
 
 Course Project: Sentiment Analysis  
 Author:  
-NIM:
 University:
 
 ---
@@ -61,7 +60,7 @@ pip install -r requirements.txt
 
 2. Run the Streamlit application
 ```bash
-streamlit run app/streamlit_app.py
+streamlit run app/as_app.py
 ```
 
 ---

@@ -1,0 +1,34 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Model and data files
+models/*.pkl
+data/raw/*
+*.csv
+*.zip
+*.tar.gz
+
+# Streamlit config and logs
+.streamlit/
+logs/
+*.log
+
+# OS/Editor specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

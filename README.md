@@ -37,7 +37,7 @@ An interactive web application is also developed using Streamlit to demonstrate 
 ## Folder Structure
 
 ```
-sentiment-analysis-imdb/
+sentiment-review-movie/
 ├── notebook/
 │   └── sentiment_analysis.ipynb    # Model training and evaluation
 ├── models/

@@ -16,7 +16,7 @@ An interactive web application is also developed using Streamlit to demonstrate 
 
 1. **Data Preprocessing**
    - Load and merge reviews labeled as positive and negative from the IMDB dataset
-   - Clean the text data (lowercasing, removing punctuation, etc.)
+   - Prepare the text data using BERT tokenizer, which handles text normalization, tokenization, padding, and attention masking automatically.
 
 2. **Feature Extraction**
    - Utilize BERT (bert-base-uncased) to convert text into numerical vectors

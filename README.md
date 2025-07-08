@@ -87,7 +87,7 @@ streamlit run app/as_app.py
 
 ## Contributor
 
-2211500943 - Beno Saputra
-2211500984 - Muhammad Mahrus Irysam
-2212500041 - Dimas Pratama Adji
-2212500162 - Tegar Mandiri
+- 2211500943 - Beno Saputra
+- 2211500984 - Muhammad Mahrus Irysam
+- 2212500041 - Dimas Pratama Adji
+- 2212500162 - Tegar Mandiri

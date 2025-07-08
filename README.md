@@ -44,7 +44,7 @@ sentiment-review-movie/
 │   └── svm_imdb_model.pkl          # Trained model file
 ├── app/
 │   └── as_app.py                   # Streamlit interface script
-├── requirements.txt                # Required Python packages
+├── requirement.txt                # Required Python packages
 ├── .gitignore                      # Git ignore file
 └── README.md                       # Project documentation
 ```
@@ -55,7 +55,7 @@ sentiment-review-movie/
 
 1. Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 2. Run the Streamlit application

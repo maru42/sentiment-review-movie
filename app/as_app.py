@@ -38,7 +38,3 @@ if st.button("Analisis"):
     else:
         hasil = predict_sentiment(user_input)
         st.success(f"Sentiment Results: **{hasil}**")
-
-if st.button("💬 Mau ngobrol lebih lanjut?"):
-    st.switch_page("pages/ChatbotFilm.py")
-

@@ -1,8 +1,6 @@
 # sentiment-review-movie
 
 Course Project: Sentiment Analysis  
-Author:  
-University:
 
 ---
 
@@ -89,4 +87,7 @@ streamlit run app/as_app.py
 
 ## Contributor
 
-- Name:
+2211500943 - Beno Saputra
+2211500984 - Muhammad Mahrus Irysam
+2212500041 - Dimas Pratama Adji
+2212500162 - Tegar Mandiri
